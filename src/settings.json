@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Crafted for Culinary Excellence: Unleash Flavors and Elevate Your Cooking Experience.",
+        "title": "Master Every Meal with Our Premium Wok"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Crafted for Culinary Excellence: Unleash Flavors and Elevate Your Cooking Experience.",
+        "title": "Master Every Meal with Our Premium Wok"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Crafted for Culinary Excellence: Unleash Flavors and Elevate Your Cooking Experience.",
+        "title": "Master Every Meal with Our Premium Wok"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Crafted for Culinary Excellence: Unleash Flavors and Elevate Your Cooking Experience.",
+        "title": "Master Every Meal with Our Premium Wok"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Crafted for Culinary Excellence: Unleash Flavors and Elevate Your Cooking Experience.",
+        "title": "Master Every Meal with Our Premium Wok"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Crafted for Culinary Excellence: Unleash Flavors and Elevate Your Cooking Experience.",
+        "title": "Master Every Meal with Our Premium Wok"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Crafted for Culinary Excellence: Unleash Flavors and Elevate Your Cooking Experience.",
+        "title": "Master Every Meal with Our Premium Wok"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Crafted for Culinary Excellence: Unleash Flavors and Elevate Your Cooking Experience.",
+        "title": "Master Every Meal with Our Premium Wok"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Crafted for Culinary Excellence: Unleash Flavors and Elevate Your Cooking Experience.",
+        "title": "Master Every Meal with Our Premium Wok"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Master Every Meal with Our Premium Wok",
+  "subtitle": "Crafted for Culinary Excellence: Unleash Flavors and Elevate Your Cooking Experience."
+}
